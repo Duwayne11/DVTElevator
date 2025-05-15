@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVTUnitTest", "DVTUnitTest\DVTUnitTest.csproj", "{522EC56C-E97B-4F3A-84E3-194A8CCB4D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVTElevator", "ElevatorMaster\DVTElevator.csproj", "{7819E5D4-070E-9D0B-32E7-B94896773A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522EC56C-E97B-4F3A-84E3-194A8CCB4D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522EC56C-E97B-4F3A-84E3-194A8CCB4D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522EC56C-E97B-4F3A-84E3-194A8CCB4D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522EC56C-E97B-4F3A-84E3-194A8CCB4D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7819E5D4-070E-9D0B-32E7-B94896773A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7819E5D4-070E-9D0B-32E7-B94896773A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7819E5D4-070E-9D0B-32E7-B94896773A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7819E5D4-070E-9D0B-32E7-B94896773A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D3A6F0D-D050-4856-ADBE-49E2BB26355B}
+	EndGlobalSection
+EndGlobal
