@@ -37,7 +37,7 @@ namespace DVTUnitTest
         {
             // Arrange
             var elevator = new Elevator(id: 1, initialFloor: 5, maxPassengers: 10);
-            elevator.TargetFloor = 8;
+            elevator.TargetFloor = 3;
             elevator.PersonCallingFloor = 8;
             elevator.IsMoving = true;
             elevator.NumberOfPassengers = 2;
